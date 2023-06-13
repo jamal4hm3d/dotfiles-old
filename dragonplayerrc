@@ -1,0 +1,41 @@
+[FileDialogSize]
+1707x960 screen: Height=661
+1707x960 screen: Width=980
+
+[General]
+AccentColor[$d]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=https://sgp1.download.real-debrid.com/d/HEE6CAZBZVMZU60/White Collar %282009%29 - S01E14 - Out of the Box %281080p BluRay x265 Silence%29.mkv
+Name1[$e]=White Collar (2009) - S01E14 - Out of the Box (1080p BluRay x265 Silence).mkv
+TimeFormat=1
+Volume=1
+accentColorFromWallpaper[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+1707x960 screen: Height=960
+1707x960 screen: Width=1707
+1707x960 screen: XPosition=528
+1707x960 screen: YPosition=150
+State=AAAA/wAAAAD9AAAAAAAAAosAAAI2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[https://sgp1.download.real-debrid.com/d/HEE6CAZBZVMZU60/White Collar %282009%29 - S01E14 - Out of the Box %281080p BluRay x265 Silence%29.mkv]
+Brightness=0
+Contrast=0
+Date=2023,6,12
+Hue=0
+IsVideo=true
+Position=27232
+Preferred Size=651,566
+Saturation=0
+Subtitle=0
